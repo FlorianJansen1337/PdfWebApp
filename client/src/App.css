@@ -1,0 +1,54 @@
+.search-bar {
+    margin: 20px;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 75%;
+}
+
+.pdf-item img {
+    max-width: 64px;
+}
+
+.pdf-detail .details {
+    margin-top: 10px;
+    margin-left: 60px;
+    width: 81%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 1px;
+}
+
+.list-group-item {
+    height: 200px;
+    cursor: pointer;
+}
+
+.list-group-item:hover {
+    background-color: #eee;
+}
+
+.container {
+    position: relative;
+    width: 81%;
+    height: 0;
+    padding-bottom: 119%;
+}
+
+.pdf {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.media-object {
+    position: absolute;
+    max-width: 120px;
+}
+
+.media-heading {
+    margin-left: 120px;
+}
