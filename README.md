@@ -10,7 +10,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/FlorianJansen1337/PdfWebApp.git
+> git clone __https://github.com/FlorianJansen1337/PdfWebApp.git__
 > cd PdfWebApp
 > cd myapp
 > npm install pm2 -g
